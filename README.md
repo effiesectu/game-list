@@ -51,4 +51,17 @@
 | Stray | Nov 28, 2022 | A very cute story and fun gameplay, I had a good time with this one :suspect: |
 | Fighting Force 2 | Nov 18, 2022 | ***Requested by IndieDevGuy!*** Cool game, but it was super rough and very glitchy :hurtrealbad: |
 | Bioshock | Nov 11, 2022 | ***Requested by Strobelitehoney!*** Super cool game, trippy story and fun gameplay. The visuals were really cool :suspect: |
+| Def Jam: Fight For New York | Nov 2, 2022 | ***Requested by Strobelitehoney!*** Such a fun game, and it was pretty difficult too! Busta Rhymes and Fat Joe messed me up like crazy towards the end :godmode: |
+| Happy Humble's Burger Barn | Oct 28, 2022 | Pretty interesting game, fun and creepy vibes :suspect: |
+| The Supper | Oct 28, 2022 | Short and sweet horror game. Very nasty throughout, and it was enjoyable :suspect: |
+| Tasty Ramen | Oct 26, 2022 | What a visual trip! Had a great time with this one :suspect: |
+| Yummy Breakfast  | Oct 26, 2022 | Creepy little game. It was a cool concept and it was pretty disturbing :suspect: |
+| Burgers & Frights | Oct 26, 2022 | This was a super cool concept and it was done really well! Short and sweet :suspect: |
+| Mother's Little Helper | Oct 24, 2022| Trippy short game, it was not bad and had some nice scares :hurtrealbad: |
+| Food For Pigs 2 | Oct 24, 2022 | This sequel was alright. Surreal and weird, but didn't hit as hard as the first game :hurtrealbad: |
+| Food For Pigs | Oct 24, 2022 | Very creepy and trippy game. Had me thinking WTF the entire time :suspect: |
+| Cannibal Cafe HD | Oct 24, 2022 | Nasty and cool game, but it got repetitive and boring very quickly :hurtrealbad: |
+| Paper Mario 64 | Oct 19, 2022 | ***Requested by WiiU!*** What an awesome game! Had a ton of fun with it, although it was pretty long and challenging :godmode: |
+| I Have No Mouth, and I Must Scream | Sept 26, 2022 | ***Requested by Strobelitehoney!*** Such an intense game and an intense story. This game really stuck with me :godmode: |
+| Doom 3 | Sept 21, 2022 | Awesome game and an awesome time. Can't go wrong with this classic shooter :godmode: |
 | --- | --- | --- |
