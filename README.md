@@ -25,7 +25,7 @@
 | Grand Theft Auto: San Andreas | Sep 23, 2023 | ***Requested by Strobelitehoney!*** Such a good time. So many laughs, good music, and intense story :godmode: |
 | Katamari Forever | Aug 16, 2023 | ***Requested by Pansieplanet!*** Fun time overall, even though the levels got repetitive after a while :suspect: |
 | Guitar Hero 3: Legends of Rock | Aug 4, 2023 | ***Requested by Strobelitehoney!*** Awesome classic! Expert run until the Lou battle that I couldn't pass, so I completed the game on a hard run afterwards :godmode: |
-| Myhouse.wad | July 22, 2023 | ***Requested by Vertiginous!*** Amazing, crazy experience. Super awesome to see the boundaries pushed on such an old game :godmode: |
+| Myhouse.wad (Doom II Map) | July 22, 2023 | ***Requested by Vertiginous!*** Amazing, crazy experience. Super awesome to see the boundaries pushed on such an old game :godmode: |
 | Bloodborne | July 21, 2023 | ***Requested by ItsKingLu!*** Super awesome and addicting experience. I loved the environment and the vibes :godmode: |
 | Tekken 7 | June 30, 2023 | ***Requested by NekroPenguin!*** Pretty interesting story mode and a fun experience overall. Played this with my snackbox controller! :suspect: |
 | 40 Winks | June 24, 2023 | It was an alright experience overall. Pretty rough around the edges, pretty janky, but I had fun :hurtrealbad: |
@@ -98,4 +98,16 @@
 | Nancy Drew: Treasure in the Royal Tower | Jan 31, 2022 | This game was really cool! Enjoyed the story and the puzzles :suspect: |
 | Chex Quest | Jan 26, 2022 | Super cool throwback. Had a really good time going through this game, even though the last episode dragged a bit :suspect: |
 | Super Mario World 2: Yoshi's Island | Jan 26, 2022 | Loved this game. It was so creative visually and the gameplay was so fun :godmode: |
+| Vanguard (Doom II Wad) | Jan 23, 2022 | Intense set of maps. Very action packed and difficult. Had an awesome time with this one :suspect: |
+| Quake | Jan 21, 2022 | Pretty cool game, a bit rough around the edges but the gameplay was a lot of fun :hurtrealbad: |
+| Twelve Minutes | Jan 19, 2022 | Very trippy and unique game. Pretty difficult, but very cool and intriguing puzzles and a very intense storyline :godmode: |
+| Doom 2: The Way We Remember It (Doom Community Project) | Jan 16, 2022 | Very cool project. It was a lot of fun seeing the different interpretations of Doom II maps, I had a lot of fun with this :suspect: |
+| Nancy Drew: Trail of the Twister | Jan 14, 2022 | Had an awesome time with this game! The setting was very cool and I liked the driving section of the game :suspect: |
+| Devil May Cry (2001) | Jan 10, 2022 | Very awesome game. Had a ton of fun playing this one. It was challenging and fun :godmode: |
+| 1000 Lines Community Project 3 (Doom Megawad) | Jan 9, 2022 | Such a creative project. I loved the concept very much and the maps were so fun to play through :godmode: |
+| Nancy Drew: Warnings at Waverly Academy | Jan 7, 2022 | This was a fun experience. Cool puzzles and a great time overall :suspect: |
+| LIMBO | Jan 3, 2022 | Very cool and dark game. The puzzles could get pretty difficult, and the artwork was really good :suspect: |
+| Doom II in Spain Only (Doom Megawad) | Jan 2, 2022 | Very awesome megawad. Very action packed, and the maps were so good. Loved the theme, I thought it was really well done :godmode: |
+| Final Fantasy VII Remake | Dec 31, 2021 | Pretty fun game! This is the first Final Fantasy game I've ever played. Good storyline and awesome gameplay :suspect: |
+| --- | --- | --- |
 | --- | --- | --- |
