@@ -86,5 +86,16 @@
 | It Takes Two | Apr 25, 2022 | Very fun game, with really cool 2 player puzzles :suspect: |
 | Drill Dozer (GBA) | Apr 15, 2022 | Very awesome game! Super fun to play, and the art was really cool :godmode: |
 | Nancy Drew: Curse of Blackmoor Manor | Apr 13, 2022 | This was a fun game and pretty challenging one too! :suspect: |
-| --- | --- | --- |
+| Donkey Kong (1994) | Apr 4, 2022 | Had so much fun with this game! Loved the puzzles and the art style was very cute :godmode: |
+| Sonic the Hedgehog 2 | Mar 28, 2022 | Very fun game! This was the first game I ever played as a little kid. Very fun to revisit and finally beat :godmode: |
+| Starfox 64 | Mar 25, 2022 | Pretty fun and challenging game! Loved the graphics and the aerial fighting was really intense :suspect: |
+| Nancy Drew: Shadow at the Water's Edge | Mar 25, 2022 | Very fun game! Had a good time with this one, navigating the Japan subway system and the ghost themes were really cool :suspect: |
+| Psychonauts | Mar 16, 2022 | Very fun game! This was an awesome platformer and it was very creative :suspect: |
+| Cry of Fear | Mar 7, 2022 | Very intense and dark game. This was a difficult run, but I had an awesome time with it :suspect: |
+| Super Mario Sunshine | Feb 23, 2022 | Super fun game! The puzzles were awesome and I loved the aesthetic of it all :suspect: |
+| The Pedestrian | Feb 14, 2022 | Very cool and interesting puzzle game. I had a great time with it :suspect: |
+| Haunting Ground | Feb 9, 2022 | Creepy and intense game. The storyline was nuts, and the running sequences were nerve-wracking :suspect: |
+| Nancy Drew: Treasure in the Royal Tower | Jan 31, 2022 | This game was really cool! Enjoyed the story and the puzzles :suspect: |
+| Chex Quest | Jan 26, 2022 | Super cool throwback. Had a really good time going through this game, even though the last episode dragged a bit :suspect: |
+| Super Mario World 2: Yoshi's Island | Jan 26, 2022 | Loved this game. It was so creative visually and the gameplay was so fun :godmode: |
 | --- | --- | --- |
