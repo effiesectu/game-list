@@ -6,6 +6,7 @@
 | Game Name | Date Completed | Comments |
 | --- | --- | --- |
 | Devil May Cry 2 | Feb 5, 2025 | Pretty fun game, even though the story is all over the place. Took a second to get used to the controls :suspect: |
+| Area 51 | Dec 27, 2024 | Very fun classic game. Had a good time with this one :suspect: |
 | Twisted Metal 4 | Dec 1, 2024 | Classic, had an awesome time. Love the music in this one. Beat the game using Pizza Boy :godmode: |
 | Twisted Metal III | Nov 27, 2024 | Very fun but pretty tough game. The music is awesome. Finished a run with Roadkill, had to do some campy maneuvers in the end to beat Primeval :suspect: |
 | Way of the Samurai | June 23, 2024 | ***Requested by NekroPenguin!*** Pretty hard game to get the mechanics down. Was able to finish it after a ton of unsuccessful attempts :hurtrealbad: |
@@ -64,4 +65,26 @@
 | Paper Mario 64 | Oct 19, 2022 | ***Requested by WiiU!*** What an awesome game! Had a ton of fun with it, although it was pretty long and challenging :godmode: |
 | I Have No Mouth, and I Must Scream | Sept 26, 2022 | ***Requested by Strobelitehoney!*** Such an intense game and an intense story. This game really stuck with me :godmode: |
 | Doom 3 | Sept 21, 2022 | Awesome game and an awesome time. Can't go wrong with this classic shooter :godmode: |
+| Dante's Inferno | Sept 12, 2022 | Amazing game! One of my favorites ever. Had such a good time with this one :godmode: |
+| Project Warlock II | Sept 4, 2022 | Pretty cool shooter, the aesthetic was awesome. Got a little bit repetitive :hurtrealbad: |
+| Oddworld: Abe's Odyssey | Aug 31, 2022 | This game was great! Very challenging and a very cool story :suspect: |
+| Nancy Drew: Ghost of Thorton Hall | Aug 22, 2022 | Very cool game! Loved the environment and it was a fun experience :suspect: |
+| Nancy Drew: Message in a Haunted Mansion | Aug 15, 2022 | This was a cool one but struggled a lot throughout the playthrough :hurtrealbad: |
+| VVVVVV | Aug 8, 2022 | Pretty cool game, the puzzles were fun and it was a short and sweet experience :suspect: |
+| Ancient Aliens (Doom Megawad) | Aug 8, 2022 | Super awesome experience. Loved the aesthetic, the gameplay, it was very intense and creative :godmode: |
+| Speed Punks | Aug 1, 2022 | Pretty cool game, short and sweet :suspect: |
+| Ape Escape | July 29, 2022 | Love this game! Super awesome experience, although spinning the analog stick around almost gave me blisters :godmode: |
+| Resident Evil 0 | July 25, 2022 | Such a difficult game. Had an awesome time with this one. Last boss was insane, but the knife strat helped me out (shoutout to Strobelitehoney for the tip!) :suspect: |
+| Metroid II: Return of Samus | July 6, 2022 | Had such a fun time with this classic game! Intense and challenging :suspect: |
+| Nancy Drew: Ghost Dogs of Moon Lake | June 29, 2022 | This was an alright game, fun but not one of my favorites from the Nancy Drew collection :hurtrealbad: |
+| We Love Katamari | June 24, 2022 | ***Requested by Pansieplanet!*** Very fun game! Had a great time playing this :suspect: |
+| OFF | June 20, 2022 | ***Requested by NikkyChikens!*** Very cool story and gameplay, super trippy time overall :suspect: |
+| StarTropics | June 15, 2022 | Crazy difficult game, but it was a good time :suspect: |
+| Policenauts (PS1) | June 8, 2022 | ***Requested by ItsKingLu!*** Interesting game, but would get easily lost and the game dragged a lot story wise :hurtrealbad: |
+| Metal Gear: Ghost Babel | May 11, 2022 | Pretty challenging and fun game, I had a good time with this one :suspect: |
+| Syberia | May 2, 2022 | This game was really cool, even though I got lost for a while. Great time overall :suspect: |
+| It Takes Two | Apr 25, 2022 | Very fun game, with really cool 2 player puzzles :suspect: |
+| Drill Dozer (GBA) | Apr 15, 2022 | Very awesome game! Super fun to play, and the art was really cool :godmode: |
+| Nancy Drew: Curse of Blackmoor Manor | Apr 13, 2022 | This was a fun game and pretty challenging one too! :suspect: |
+| --- | --- | --- |
 | --- | --- | --- |
