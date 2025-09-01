@@ -109,5 +109,30 @@
 | LIMBO | Jan 3, 2022 | Very cool and dark game. The puzzles could get pretty difficult, and the artwork was really good :suspect: |
 | Doom II in Spain Only (Doom Megawad) | Jan 2, 2022 | Very awesome megawad. Very action packed, and the maps were so good. Loved the theme, I thought it was really well done :godmode: |
 | Final Fantasy VII Remake | Dec 31, 2021 | Pretty fun game! This is the first Final Fantasy game I've ever played. Good storyline and awesome gameplay :suspect: |
-| --- | --- | --- |
+| Halo 2 | Dec 20, 2021 | Very fun time playing with this one. The story was alright, but the gameplay was really good :suspect: |
+| Slide in the Woods | Dec 20, 2021 | Pretty interesting short game. The visuals were trippy :suspect: |
+| TV Night | Dec 15, 2021 | Pretty cool short game. Very tense and creepy :suspect: |
+| Mr. Hopps Playhouse | Dec 15, 2021 | This game was awesome! Pretty creepy and the gameplay was very good :suspect: |
+| Nancy Drew: Danger By Design | Dec 13, 2021 | This game was alright. I had a really rough time with this one, and got lost for quite some time. Not my favorite in the series :hurtrealbad: |
+| (Don't) Open Your Eyes | Dec 13, 2021 | Short and creepy game. Interesting experience :suspect: |
+| The Tithe | Dec 13, 2021 | This short game was alright. Some scares, and the environment was creepy :hurtrealbad: |
+| Withered | Dec 11, 2021 | Short and very creepy game. Was not too much of a fan of this one :hurtrealbad: |
+| Simulacrum: Chapter One | Dec 10, 2021 | Enjoyed this game! It had very oldschool PS1 horror game vibes :suspect: |
+| Nancy Drew: Last Train to Blue Moon Canyon | Dec 8, 2021 | Really enjoyed this game a lot! Loved how you could play as the Hardy Boys in a section of the game, and the puzzles were really good :godmode: |
+| A Gracewind Tale: Do You Copy? | Dec 8, 2021 | Pretty creepy game. Loved the environment and the gameplay :suspect: |
+| Andy's Apple Farm | Dec 6, 2021 | Pretty fun, short little game. Creepy throughout :suspect: |
+| Nancy Drew: Secret of the Old Clock | Dec 3, 2021 | Pretty fun game in the series! I enjoyed the driving sections, I thought it was so unique compared to the other entries that I've played :suspect: |
+| Haunted Cities | Dec 3, 2021 | Trippy little collection of games. Enjoyed wandering throughout it :suspect: |
+| Maple County | Dec 3, 2021 | Super creepy short game. The eerieness stuck with me for quite some time :godmode: |
+| Maximo: Ghosts to Glory | Nov 27, 2021 | Very fun and challenging game. Loved the design and the gameplay :godmode: |
+| Super Mario Bros. 2 | Nov 24, 2021 | Very interesting Mario game. A surreal experience, although it wasn't my favorite :hurtrealbad: |
+| Super Mario Bros. | Nov 24, 2021 | Fun classic game! Loved playing this one :godmode: |
+| Metroid Dread | Nov 22, 2021 | Amazing game. Loved playing through this one. The gameplay was excellent, the story was very cool, the aesthetic was so good :godmode: |
+| Spiderman (2000) | Nov 12, 2021 | ***Requested by ItsKingLu!*** Very fun throwback! The gameplay was a little rough and jank, but it was really fun to play through :suspect: |
+| Nancy Drew: Secrets Can Kill | Nov 10, 2021 | My first Nancy Drew game! I enjoyed this one a lot, the puzzles were very cool and the aesthetic was cool and it was a good throwback :godmode: |
+| FAITH | Nov 8, 2021 | Such an awesome and scary game! It was great to see the oldschool 8bit aesthetic being pushed to its boundaries :godmode: |
+| Mirror's Edge | Nov 5, 2021 | Very trippy game, with awesome parkour gameplay and visuals. Short and sweet :suspect: |
+| Dino Crisis 2 | Nov 3, 2021 | This game was really cool. I liked the action approach that the sequel went with. Intense and a lot of fun :godmode: |
+| Einhänder | Oct 29, 2021 | One of my favorite games ever! Love this game. Intense and challenging, and the sci-fi aesthetic and music is so good :godmode: |
+| Cooking Companions | Oct 27, 2021 | --- |
 | --- | --- | --- |
