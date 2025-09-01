@@ -143,4 +143,19 @@
 | Stories Untold | Oct 12, 2021 | Very interesting game! Loved the oldschool approach to it, very eerie vibes and cool aesthetic :suspect: |
 | Little Nightmares II | Oct 9, 2021 | This game was really creepy and fun! Did not like the ending though :suspect: |
 | Halo: Combat Evolved | Sept 30, 2021 | So fun! Very action packed, loved the combat and the fast pace :suspect: |
+| Castlevania: Symphony of the Night | Sept 20, 2021 | Super fun game. Had a blast playing through this. Did a 100% run :godmode: |
+| Max Payne | Sept 10, 2021 | Awesome classic. Rough around the edges in some parts, but a very solid game throughout :suspect: |
+| For Honor | Sept 8, 2021 | Very cool concept and solid game. Loved the combat system :suspect: |
+| Observation | Aug 31, 2021 | Very eerie game, but dragged for a long period of time :hurtrealbad: |
+| Fear Effect | Aug 23, 2021 | This game was awesome. Pretty janky, but the graphics, gameplay, and intense/creepy story were so good :godmode: |
+| Silence of the Sleep | Aug 19, 2021 | Very eerie side scroller. The environment was pretty unsettling. Good game overall :suspect: |
+| Detention | Aug 11, 2021 | Very trippy game. Surreal atmosphere, and a sad story. Enjoyed this one :suspect: |
+| Parasite Eve | Aug 9, 2021 | Loved this game! The gameplay was really good and unique, and the animations were really intense :godmode: |
+| Visage | Aug 2, 2021 | Super creepy game. This one had me jumping from my seat constantly :suspect: |
+| Shadow of the Colossus | July 26, 2021 | Amazing game. Beautiful scenery, intense gameplay, and such a tragic story :godmode: |
+| Fatal Frame II | July 12, 2021 | Super creepy game. Enjoyed this one, although I got lost pretty hard for a while :suspect: |
+| Mega Man X | June 7, 2021 | Awesome classic game. Love the art style, gameplay, and difficulty :godmode: |
+| The Oregon Trail Deluxe | June 5, 2021 | Very short and sweet classic game. Used to play this one a lot in grammar school, it was fun to revisit it as an adult :suspect: |
+| Returnal | June 5, 2021 | Amazing game. Loved the gameplay, the story, the music, the visuals of everything. So much replay value :godmode: |
+| Resident Evil Village | --- | --- |
 | --- | --- | --- |
