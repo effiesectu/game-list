@@ -78,7 +78,7 @@
 | Metroid II: Return of Samus | July 6, 2022 | Had such a fun time with this classic game! Intense and challenging :suspect: |
 | Nancy Drew: Ghost Dogs of Moon Lake | June 29, 2022 | This was an alright game, fun but not one of my favorites from the Nancy Drew collection :hurtrealbad: |
 | We Love Katamari | June 24, 2022 | ***Requested by Pansieplanet!*** Very fun game! Had a great time playing this :suspect: |
-| OFF | June 20, 2022 | ***Requested by NikkyChikens!*** Very cool story and gameplay, super trippy time overall :suspect: |
+| OFF | June 20, 2022 | ***Requested by NikkyChikens!*** Very cool story and gameplay, super trippy time overall. Zacharie will pop up on stream from time to time! :suspect: |
 | StarTropics | June 15, 2022 | Crazy difficult game, but it was a good time :suspect: |
 | Policenauts (PS1) | June 8, 2022 | ***Requested by ItsKingLu!*** Interesting game, but would get easily lost and the game dragged a lot story wise :hurtrealbad: |
 | Metal Gear: Ghost Babel | May 11, 2022 | Pretty challenging and fun game, I had a good time with this one :suspect: |
@@ -134,5 +134,13 @@
 | Mirror's Edge | Nov 5, 2021 | Very trippy game, with awesome parkour gameplay and visuals. Short and sweet :suspect: |
 | Dino Crisis 2 | Nov 3, 2021 | This game was really cool. I liked the action approach that the sequel went with. Intense and a lot of fun :godmode: |
 | Einhänder | Oct 29, 2021 | One of my favorite games ever! Love this game. Intense and challenging, and the sci-fi aesthetic and music is so good :godmode: |
-| Cooking Companions | Oct 27, 2021 | --- |
+| Cooking Companions | Oct 27, 2021 | Very creepy game! Was not expecting it to be so scary because it's also so cute. The Chompettes will pop up on stream from time to time! :suspect: |
+| My Friend Pedro | Oct 25, 2021 | Enjoyed this game a lot. Very fun side-scrolling shooter with bullet time physics :suspect: |
+| Ib | Oct 22, 2021 | Very interesting rpg with a surreal and trippy story :suspect: |
+| Galerians | Oct 16, 2021 | Cool concept, but very janky and rough game to play through :hurtrealbad: |
+| Sylvio | Oct 15, 2021 | Very cool and creepy game. Loved the vibes and eerieness :suspect: |
+| Clock Tower (Playstation) | Oct 14, 2021 | Pretty fun and creepy game. Had a fun time with this one :suspect: |
+| Stories Untold | Oct 12, 2021 | Very interesting game! Loved the oldschool approach to it, very eerie vibes and cool aesthetic :suspect: |
+| Little Nightmares II | Oct 9, 2021 | This game was really creepy and fun! Did not like the ending though :suspect: |
+| Halo: Combat Evolved | Sept 30, 2021 | So fun! Very action packed, loved the combat and the fast pace :suspect: |
 | --- | --- | --- |
