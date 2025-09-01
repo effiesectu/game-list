@@ -7,9 +7,9 @@
 | --- | --- | --- |
 | Devil May Cry 2 | Feb 5, 2025 | Pretty fun game, even though the story is all over the place. Took a second to get used to the controls :suspect: |
 | Area 51 | Dec 27, 2024 | Very fun classic game. Had a good time with this one :suspect: |
-| Twisted Metal 4 | Dec 1, 2024 | Classic, had an awesome time. Love the music in this one. Beat the game using Pizza Boy :godmode: |
-| Twisted Metal III | Nov 27, 2024 | Very fun but pretty tough game. The music is awesome. Finished a run with Roadkill, had to do some campy maneuvers in the end to beat Primeval :suspect: |
-| Way of the Samurai | June 23, 2024 | ***Requested by NekroPenguin!*** Pretty hard game to get the mechanics down. Was able to finish it after a ton of unsuccessful attempts :hurtrealbad: |
+| Twisted Metal 4 | Dec 2, 2024 | Classic, had an awesome time. Love the music in this one. Beat the game using Pizza Boy :godmode: |
+| Twisted Metal III | Nov 28, 2024 | Very fun but pretty tough game. The music is awesome. Finished a run with Roadkill, had to do some campy maneuvers in the end to beat Primeval :suspect: |
+| Way of the Samurai | June 24, 2024 | ***Requested by NekroPenguin!*** Pretty hard game to get the mechanics down. Was able to finish it after a ton of unsuccessful attempts :hurtrealbad: |
 | Rhythm Heaven Fever | June 19, 2024 | ***Requested by Pansieplanet!*** Super challenging and a super fun game! It was such a creative ride, never played anything like that before! :godmode: |
 | Mighty Morphin Power Rangers (SNES) | June 18, 2024 | Pretty short game, but very fun playthrough! Was not expecting the grand battle at the end  :suspect: |
 | Super Castlevania IV | June 8, 2024 | Very cool style, pretty fun game! :suspect: |
