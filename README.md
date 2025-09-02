@@ -2,6 +2,7 @@
 ## list of all the completed games in the harsh realm
 > [!NOTE]
 > Rating system goes from Amazing :godmode:, Very Good :suspect:, Pretty Rough :hurtrealbad:, Horrible :finnadie:
+> If there is a parenthesis followed by a number next to a game, that is the amount of times I've played through the game on stream
 
 | Game Name | Date Completed | Comments |
 | --- | --- | --- |
@@ -157,5 +158,20 @@
 | Mega Man X | June 7, 2021 | Awesome classic game. Love the art style, gameplay, and difficulty :godmode: |
 | The Oregon Trail Deluxe | June 5, 2021 | Very short and sweet classic game. Used to play this one a lot in grammar school, it was fun to revisit it as an adult :suspect: |
 | Returnal | June 5, 2021 | Amazing game. Loved the gameplay, the story, the music, the visuals of everything. So much replay value :godmode: |
-| Resident Evil Village | --- | --- |
+| Resident Evil Village | May 24, 2021 | This game was pretty fun, although I was expecting it to be more scarier :suspect: |
+| God of War III | May 17, 2021 | This game was awesome. Loved the gameplay, the graphics, and the story was really intense :godmode: |
+| God of War II | May 11, 2021 | Had a lot of fun with this game. Pretty tough and very fun gameplay :suspect: |
+| God of War (2005) | May 5, 2021 | This classic game was great! Very fun gameplay, and the story was super cool :suspect: |
+| Metal Gear Solid 2: Sons of Liberty | Apr 27, 2021 | Pretty fun game. Crazy to see the improvements from the first game to the second. Loved the mechanics and the fluidity of it, although the story was so convoluted and the cutscenes were so long :suspect: |
+| Metal Gear Solid | Apr 23, 2021 | This game was great. The gameplay was very fun, and the story was pretty intense. Unfortunately it dragged a bit because of the super long cutscenes :suspect: |
+| Perception | Apr 13, 2021 | Very cool concept for a game. Had a lot of fun with this one! Influenced me to download and become a member of "Be My Eyes" :suspect: |
+| The Medium | Apr 9, 2021 | This game was so unique and had a very interesting aesthetic. I was hooked! :suspect: |
+| Metroid: Zero Mission | Apr 3, 2021 | What an awesome game! Loved the twist towards the ending and how it really made this remake a one-of-a-kind original :godmode: |
+| Metroid Fusion | Mar 31, 2021 | Amazing game. Loved the gameplay, the story, the art style. Amazing sequel :godmode: |
+| Super Metroid | Mar 26, 2021 | Love this classic game so much. The eerieness of it and the fluid gameplay mixed with the aewsome music makes this game an unforgettable experience. Still holds up after all this time :godmode: |
+| BloodRayne 2 | Mar 19, 2021 | This was a cool game. Played pretty nicely, although there was some jank every now and then. The story was silly at some points, but it was fun overall :suspect: |
+| BloodRayne | Mar 10, 2021 | It was a cool concept, but this game is so janky. Very rough playthrough :hurtrealbad: |
+| Resident Evil 2 Remake | Mar 1, 2021 | Such an awesome time with this one. The graphics were amazing, and the gameplay was so good. Action packed time all throughout :suspect: |
+| Control | Feb 20, 2021 | I had a lot of fun with this game! Loved the gameplay, and the really trippy story :suspect: |
+| Observer (x2) | Feb 13, 2021 | --- |
 | --- | --- | --- |
