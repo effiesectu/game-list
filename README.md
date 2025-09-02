@@ -1,8 +1,10 @@
 # game-list
 ## list of all the completed games in the harsh realm
-> [!NOTE]
+> [!IMPORTANT]
 > Rating system goes from Amazing :godmode:, Very Good :suspect:, Pretty Rough :hurtrealbad:, Horrible :finnadie:
-> If there is a parenthesis followed by a number next to a game, that is the amount of times I've played through the game on stream
+
+> [!NOTE]
+> If a game under the "Game Name" section has a parenthesis followed by an "x" and a number, that is the amount of times I've played through the game on stream
 
 | Game Name | Date Completed | Comments |
 | --- | --- | --- |
@@ -173,5 +175,35 @@
 | BloodRayne | Mar 10, 2021 | It was a cool concept, but this game is so janky. Very rough playthrough :hurtrealbad: |
 | Resident Evil 2 Remake | Mar 1, 2021 | Such an awesome time with this one. The graphics were amazing, and the gameplay was so good. Action packed time all throughout :suspect: |
 | Control | Feb 20, 2021 | I had a lot of fun with this game! Loved the gameplay, and the really trippy story :suspect: |
-| Observer (x2) | Feb 13, 2021 | --- |
-| --- | --- | --- |
+| Observer (x2) | Feb 13, 2021 | I thought that this game was amazing. The visuals were something I have never experienced before in a game, and the story telling was really good. The gameplay was intense, and the story itself was so dark and gritty :godmode: |
+| Fatal Frame | Feb 11, 2021 | This game was really good. The atmosphere was so scary, and the graphics and gameplay are so good. Super innovative for its time, and holds up very well :godmode: |
+| The Last of Us | Feb 5, 2021 | Amazing game and amazingly tragic story. Had a really great time running through this one :godmode: |
+| SOMA | Jan 29, 2021 | Very good game and such a tragic story. Very thought provoking, and crazy twist at the end :suspect: |
+| Dead Space 2 | Jan 23, 2021 | This game was great. Crazy story and such an intense setting. The gameplay was so fun and I definitely got my scares in :suspect: |
+| Dead Space | Jan 14, 2021 | Awesome game. Such a scary and intense experience, with awesome gameplay. Had an awesome time playing this one :godmode: |
+| Eternal Darkness: Sanity's Requiem | Jan 5, 2021 | Love this game so much. The creepy environments, dark themes and lore, and fun gameplay kept me hooked :godmode: |
+| Resident Evil 1 Remake | Dec 26, 2020 | Had such a fun time playing this game. Beautiful graphics and intense gameplay :suspect: |
+| Silent Hill 4 | Dec 18, 2020 | Such a scary and intense game. Loved the story and the eerieness of it all :godmode: |
+| Dino Crisis | Dec 11, 2020 | This game was fun! It had a pretty good amount of jank and the story was pretty silly, but I had a good time with it :suspect: |
+| Resident Evil 3: Nemesis | Dec 7, 2020 | My first Resident Evil game when I was a lil kid! Had a lot of fun with this classic. Loved how action packed it was compared to the first game :godmode: |
+| Super Mario 64 | Dec 3, 2020 | This game was alright. I felt like it was pretty janky, and I was not that big of a fan :hurtrealbad: |
+| Black Mesa | Dec 2, 2020 | Awesome game. Loved the graphics and the gameplay. The story was pretty cool as well. I thought the alien levels were so impressive. Excellent remake! :suspect: |
+| Silent Hill (x2) | Nov 25, 2020 | Very cool game. Loved the creepy environment, nasty enemies, and the unsettling story :suspect: |
+| God of War (2018) | Nov 24, 2020 | Awesome game. Loved the intense gameplay and the epic story. Amazing overall :godmode: |
+| Ultimate Doom | Nov 19, 2020 | One of my favorite games ever! Love the fast-paced gameplay, the awesome music, and the oldschool graphics. I will forever love this game :godmode: |
+| Until Dawn | Nov 17, 2020 | Really cool game! Very scary moments and vey intense decision making moments. I had such a bad run but it was a fun time :suspect: |
+| Oxenfree | Nov 12, 2020 | Very interesting concept! Cool game, good graphics and an interesting story :suspect: |
+| Silent Hill 2 (x2) | Nov 8, 2020 | Amazing game. Such an intense and sad story, mixed with really insane visuals and pretty good gameplay. Had a hell of a time with this game :godmode: |
+| Outlast II | Nov 2, 2020 | What a crazy game. This was so intense, with nasty visuals and scary gameplay. It sat with me for quite some time :suspect: |
+| Outlast: Whistleblower | Oct 29, 2020 | Crazy follow-up to the original game. Nasty visuals, very intense gameplay and a crazy storyline :suspect: |
+| Outlast | Oct 27, 2020 | Insane game. Had so many scary moments with this, and struggled a lot :suspect: |
+| World of Horror (x2) | Oct 26, 2020 | Very fun game! The visuals are insane and the gameplay is so good. It feels like playing a horror board game :godmode: |
+| Hellblade: Senua's Sacrifice | Oct 22, 2020 | This game was really cool. Very interesting concept, and awesome gameplay and graphics :suspect: |
+| Silent Hill 3 (x2) | Oct 16, 2020 | Amazing game! Really crazy story, and intense graphics and gameplay. Loved it all throughout :godmode: |
+| Carrion | Oct 9, 2020 | Really great game! The concept was really good, and the gameplay and visuals were awesome! Prett short game, although I got lost for a very long time :suspect: |
+| Little Nightmares | Oct 5, 2020 | Amazing game! Loved the story, the gameplay, the visuals. Everything was so creepy! :godmode: |
+| Resident Evil 7 | Oct 2, 2020 | Really scary and awesome game. Loved this one so much! The graphics were so good, the gameplay was really intense, and the story was so dark. Loved every bit of it :godmode: |
+| Dimension of the Boomed (Doom Wad) | Sept 26, 2020 | Very cool set of maps. Loved the gameplay and the map structure :suspect: |
+| Shotgun Symphony (Doom Wad) | Sept 19, 2020 | Very well done collection of challenging maps. Loved the time playing through this :suspect: |
+| Alien: Isolation | Sept 27, 2020 | Insane game. Awesome graphics, intense gameplay, and very scary story :suspect: |
+| Alan Wake | Sept 19, 2020 | Pretty cool game. It was a campy horror story, but fun gameplay and cool visuals :suspect: |
