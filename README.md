@@ -209,7 +209,7 @@
 | Alan Wake | Sept 19, 2020 | Pretty cool game. It was a campy horror story, but fun gameplay and cool visuals :suspect: |
 ## list of all the game requests in the harsh realm
 > [!IMPORTANT]
-> If you'd like to make a request, make sure to catch a livestream and redeem the "Request a Game" channel redemption!
+> If you'd like to make a request, make sure to catch a livestream and redeem the "Request a Game" channel reward!
 > 
 | Game Name | Requester |
 | --- | --- |
