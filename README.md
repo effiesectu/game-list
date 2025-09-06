@@ -207,3 +207,25 @@
 | Shotgun Symphony (Doom Wad) | Sept 19, 2020 | Very well done collection of challenging maps. Loved the time playing through this :suspect: |
 | Alien: Isolation | Sept 27, 2020 | Insane game. Awesome graphics, intense gameplay, and very scary story :suspect: |
 | Alan Wake | Sept 19, 2020 | Pretty cool game. It was a campy horror story, but fun gameplay and cool visuals :suspect: |
+## list of all the game requests in the harsh realm
+> [!IMPORTANT]
+> Rating system goes from Amazing :godmode:, Very Good :suspect:, Pretty Rough :hurtrealbad:, Horrible :finnadie:
+> 
+| Game Name | Requester |
+| --- | --- |
+| Catherine | Strobelitehoney |
+| Ghost Trick: Phantom Detective | Pansieplanet |
+| Dark Souls | ItsKingLu |
+| The Elder Scrolls III: Morrowind | NekroPenguin |
+| Persona 3 FES | Strobelitehoney |
+| Conker's Bad Fur Day | DJ2PAC |
+| Nancy Drew | NekroPenguin |
+| Opoona | Pansieplanet |
+| Blinx: The Time Sweeper | ItsKingLu |
+| Parappa the Rapper 2 | Strobelitehoney |
+| Leisure Suit Larry 6 | Strobelitehoney |
+| Boku no Natsuyasumi 2: Umi no Bouken Hen | NekroPenguin |
+| NES Remix (WiiU) | ItsKingLu |
+| R.A.D. Robot Alchemic Drive | ItsKingLu |
+| No Straight Roads | RW_Slick |
+| Pikmin 3 | Pansieplanet |
