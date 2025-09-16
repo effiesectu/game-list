@@ -8,6 +8,7 @@
 
 | Game Name | Date Completed | Comments |
 | --- | --- | --- |
+| F.E.A.R. | Sept 15, 2025 | Very cool game. The gunplay was intense, and I couldn't follow the story too well but it was a trippy experience with random jumpscares here and there! :suspect: |
 | Devil May Cry 2 | Feb 5, 2025 | Pretty fun game, even though the story is all over the place. Took a second to get used to the controls :suspect: |
 | Area 51 | Dec 27, 2024 | Very fun classic game. Had a good time with this one :suspect: |
 | Twisted Metal 4 | Dec 2, 2024 | Classic, had an awesome time. Love the music in this one. Beat the game using Pizza Boy :godmode: |
