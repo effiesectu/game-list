@@ -231,3 +231,5 @@
 | No Straight Roads | RW_Slick |
 | Pikmin 3 | Pansieplanet |
 | Cave Story | KoolWranch |
+| Call of Cthulu | Pancho_Graves |
+| Lego Island | ItsKingLu |
