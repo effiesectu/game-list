@@ -230,3 +230,4 @@
 | R.A.D. Robot Alchemic Drive | ItsKingLu |
 | No Straight Roads | RW_Slick |
 | Pikmin 3 | Pansieplanet |
+| Cave Story | KoolWranch |
