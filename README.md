@@ -8,6 +8,7 @@
 
 | Game Name | Date Completed | Comments |
 | --- | --- | --- |
+| Grim Fandango | November 21, 2025 | Loved this game! Very solid story, awesome visuals and music, and the dialogue and voice acting was hilarious and very well done. Very bittersweet ending :godmode: |
 | Luigi's Mansion | Oct 31, 2025 | Very fun game! Short and sweet, and very fun mechanics. Luigi's Silent Hill :godmode: |
 | The Suffering | Oct 16, 2025 | Cool storyline, but the gameplay was a buggy mess. It was pretty rough and unfortunately dragged on for a while without much variety :hurtrealbad: |
 | F.E.A.R. | Sept 15, 2025 | Very cool game. The gunplay was intense, and I couldn't follow the story too well but it was a trippy experience with random jumpscares here and there! :suspect: |
