@@ -216,27 +216,27 @@
 > [!IMPORTANT]
 > If you'd like to make a request, make sure to catch a livestream and redeem the "Request a Game" channel reward!
 > 
-| Game Name | Requester |
-| --- | --- |
-| Catherine | Strobelitehoney |
-| Ghost Trick: Phantom Detective | Pansieplanet |
-| Dark Souls | ItsKingLu |
-| The Elder Scrolls III: Morrowind | Pancho_Graves |
-| Persona 3 FES | Strobelitehoney |
-| Conker's Bad Fur Day | DJ2PAC |
-| Nancy Drew | NekroPenguin |
-| Opoona | Pansieplanet |
-| Blinx: The Time Sweeper | ItsKingLu |
-| Parappa the Rapper 2 | Strobelitehoney |
-| Boku no Natsuyasumi 2: Umi no Bouken Hen | Pancho_Graves |
-| NES Remix (WiiU) | ItsKingLu |
-| R.A.D. Robot Alchemic Drive | ItsKingLu |
-| No Straight Roads | RW_Slick |
-| Pikmin 3 | Pansieplanet |
-| Cave Story | KoolWranch |
-| Call of Cthulu | Pancho_Graves |
-| Clock Tower | Pancho_Graves |
-| Lego Island | ItsKingLu |
-| MDK2 | Eyyitsnana |
-| 007 Goldeneye | XxBatDaddyxX |
-| Doom 1 + 2 | Pancho_Graves |
+| Game Name | Requester | Current Votes |
+| --- | --- | --- |
+| Catherine | Strobelitehoney | --- |
+| Ghost Trick: Phantom Detective | Pansieplanet | 1 |
+| Dark Souls | ItsKingLu | --- |
+| The Elder Scrolls III: Morrowind | Pancho_Graves | --- |
+| Persona 3 FES | Strobelitehoney | --- |
+| Conker's Bad Fur Day | DJ2PAC | --- |
+| Nancy Drew | NekroPenguin | --- |
+| Opoona | Pansieplanet | --- |
+| Blinx: The Time Sweeper | ItsKingLu | --- |
+| Parappa the Rapper 2 | Strobelitehoney | --- |
+| Boku no Natsuyasumi 2: Umi no Bouken Hen | Pancho_Graves | --- |
+| NES Remix (WiiU) | ItsKingLu | --- |
+| R.A.D. Robot Alchemic Drive | ItsKingLu | --- |
+| No Straight Roads | RW_Slick | --- |
+| Pikmin 3 | Pansieplanet | --- |
+| Cave Story | KoolWranch | --- |
+| Call of Cthulu | Pancho_Graves | --- |
+| Clock Tower | Pancho_Graves | --- |
+| Lego Island | ItsKingLu | 3 |
+| MDK2 | Eyyitsnana | 1 |
+| 007 Goldeneye | XxBatDaddyxX | --- |
+| Doom 1 + 2 | Pancho_Graves | --- |
