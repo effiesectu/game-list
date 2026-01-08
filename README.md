@@ -218,7 +218,7 @@
 > 
 | Game Name | Requester | Current Votes |
 | --- | --- | --- |
-| Catherine | Strobelitehoney | --- |
+| Catherine | Strobelitehoney | 1 |
 | Ghost Trick: Phantom Detective | Pansieplanet | 1 |
 | Dark Souls | ItsKingLu | --- |
 | The Elder Scrolls III: Morrowind | Pancho_Graves | --- |
