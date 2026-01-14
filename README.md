@@ -224,7 +224,6 @@
 | Dark Souls | ItsKingLu | --- |
 | The Elder Scrolls III: Morrowind | Pancho_Graves | --- |
 | Persona 3 FES | Strobelitehoney | --- |
-| Conker's Bad Fur Day | DJ2PAC | --- |
 | Nancy Drew | NekroPenguin | --- |
 | Opoona | Pansieplanet | --- |
 | Blinx: The Time Sweeper | ItsKingLu | --- |
