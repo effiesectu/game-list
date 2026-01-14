@@ -8,6 +8,7 @@
 
 | Game Name | Date Completed | Comments |
 | --- | --- | --- |
+| Conker's Bad Fur Day | Jan 13, 2026 | ***Requested by DJ2PAC!*** Insane game! was not expecting it be to be so gory! Legit felt like a comedy central special. Very cool game :godmode: |
 | Leisure Suit Larry 6: Shape Up or Slip Out! | Dec 30, 2025 | ***Requested by Strobelitehoney!*** Hilarious game! Loved the dialogue, and the art was surprisingly really good! Didn't expect it to be as raunchy as it was, though :suspect: |
 | Grim Fandango | Nov 21, 2025 | Loved this game! Very solid story, awesome visuals and music, and the dialogue and voice acting was hilarious and very well done. Very bittersweet ending :godmode: |
 | Luigi's Mansion | Oct 31, 2025 | Very fun game! Short and sweet, and very fun mechanics. Luigi's Silent Hill :godmode: |
@@ -219,7 +220,7 @@
 | Game Name | Requester | Current Votes |
 | --- | --- | --- |
 | Catherine | Strobelitehoney | 1 |
-| Ghost Trick: Phantom Detective | Pansieplanet | 2 |
+| Ghost Trick: Phantom Detective | Pansieplanet | 3 |
 | Dark Souls | ItsKingLu | --- |
 | The Elder Scrolls III: Morrowind | Pancho_Graves | --- |
 | Persona 3 FES | Strobelitehoney | --- |
