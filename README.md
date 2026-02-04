@@ -237,6 +237,6 @@
 | Call of Cthulu | Pancho_Graves | --- |
 | Clock Tower | Pancho_Graves | --- |
 | Lego Island | ItsKingLu | 9 |
-| MDK2 | Eyyitsnana | 1 |
+| MDK2 | Eyyitsnana | 2 |
 | 007 Goldeneye | XxBatDaddyxX | --- |
 | Doom 1 + 2 | Pancho_Graves | --- |
