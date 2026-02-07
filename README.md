@@ -236,7 +236,7 @@
 | Cave Story | KoolWranch | --- |
 | Call of Cthulu | Pancho_Graves | --- |
 | Clock Tower | Pancho_Graves | --- |
-| Lego Island | ItsKingLu | 11 |
+| Lego Island | ItsKingLu | 12 |
 | MDK2 | Eyyitsnana | 2 |
 | 007 Goldeneye | XxBatDaddyxX | --- |
 | Doom 1 + 2 | Pancho_Graves | --- |
