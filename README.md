@@ -240,5 +240,5 @@
 | MDK2 | Eyyitsnana | 2 |
 | 007 Goldeneye | XxBatDaddyxX | --- |
 | Doom 1 + 2 | Pancho_Graves | --- |
-| Batman: Arkham Asylum | DJ2PAC | 4 |
+| Batman: Arkham Asylum | DJ2PAC | 5 |
 | Gauntlet Dark Legacy | Brandondashinobi | --- |
